@@ -1,0 +1,722 @@
+ 
+Angular tutorials=>https://riptutorial.com/angular2/example/27731/-ngfor-with-component
+
+Angular tutorials=>https://material.angular.io/guides
+
+web mail link : https://webmail.smiksystems.com/cpsess3154195027/horde/imp/dynamic.php?page=mailbox
+user id : mani@smiksystems.com
+password : Mani123$
+
+slack web link : https://app.slack.com/signin?redir=%2Fgantry%2Fauth%3Fapp%3Dclient%26lc%3D1589447479%26return_to%3D%252Fclient%252FTJ9BW9K6E%252FD010QJGPXAM%26teams%3DTJ9BW9K6E#/
+slack link =>https://app.slack.com/client/TJ9BW9K6E/D010QJGPXAM
+user id : mani
+password : Mani123$
+
+
+gitlab weblink: git:https://gitlab.com
+
+
+
+
+sir details
+ Windows instsallation process(path set) = c:\XAMPP\htdocs C:\xamppol123\php;C:\xamppol123\mysql\bin;C:\xampp\php;C:\xampp\mysql\bin;C:\composer
+– OSX /Applications/XAMPP/htdocs
+
+file zilla = local site : C:\xampp\htdocs\gaming\
+Website name : http://gaming.xite.io/login
+Reset website : http://casino.wnets.net/
+
+HTML CSS= Alignment link =>unminify
+Priyan19$
+
+C:\Users\admin\Documents\vue\
+/packages/european-roul
+ette/resources/js/pages
+
+
+Angular
+
+Install Angular Material and Angular CDK
+links : https://v5.material.angular.io/guide/getting-started
+npm install --save @angular/material @angular/cdk
+ng s
+
+
+Leap Year List => https://www.pleacher.com/mp/mlessons/algebra/mobleap.html
+
+
+npx react-native run-android
+npm install
+react-native run-android
+react-native start
+
+in any error show
+gradlew clean 
+react-native start --reset-cache
+emulatore set path cmd : set ANDROID_SDK_ROOT=C:\Users\admin\AppData\Local\Android\Sdk
+c la path set : Name :ANDROID_NAME
+
+
+php artisan cache:clear
+php artisan config:cache
+https://nick-basile.com/blog/post/how-to-configure-a-new-laravel-55-project
+
+gaming web : https://gaming.xite.io:2083/cwp_bf16cbba594634b0/gaming/fileManager2.php
+password : #gam@2020
+
+yuvasakthiacademy new =>yuvasakthiacademycbe@gmail.com
+Yuva password : Monisha1234$
+
+Python run cmd
+python manage.py runserver
+
+
+
+React js
+npx create-react-app my-app
+npm start
+
+React js adminpanel = > https://github.com/flatlogic/react-material-admin => https://github.com/reduction-admin/react-reduction
+
+jithub : https://gitlab.com/users/sign_in
+jaya192
+jaya123$
+
+
+
+Angular rout =<a class="home-app-link" routerLink="/login"><h3>register</h3></a>
+
+
+Bootstrap Links = https://www.google.com/search?sxsrf=ALeKk00NjlATAbz-fMj0KxYn_nxZkAjRLg%3A1590579539540&source=hp&ei=U1HOXuP1HqnBz7sPmtamqAc&q=center+login+page+bootstrap&oq=center+login+pag&gs_lcp=CgZwc3ktYWIQAxgAMgIIADICCAAyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgcIIxDqAhAnOgQIIxAnOgUIABCRAjoECAAQQzoFCAAQgwE6BAgAEAM6BAgAEAo6CAgAEBYQChAeUI8OWKgyYM0-aAFwAHgAgAF0iAHCDJIBAzkuN5gBAKABAaoBB2d3cy13aXqwAQo&sclient=psy-ab
+
+
+
+
+Angular date format (https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/date)
+HTML{
+    <input type="date" id="start" name="trip-start"
+                    value="2020-05-27"
+                    min="1950-01-01" max="2020-06-31">
+}
+CSS{
+    label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+input,
+label {
+    margin: .4rem 0;
+}
+
+
+Angular country format (https://gist.github.com/danrovito/977bcb97c9c2dfd3398a)
+
+Admin panel links
+https://www.bootstrapdash.com/demo/star-admin-free/jquery/src/demo_1/index.html
+
+
+My sql link
+http://wwwsg1-sr6.supercp.com/cpanel
+website = http://hugmyanmar.com/
+U: hugmyanmar
+P: X#Z]d[&#PtmF
+pT)[wTJc}XQC
+
+
+Link for desktop hide mobhileview show
+https://stackoverflow.com/questions/34533631/hide-div-on-desktop-show-on-mobile
+
+
+
+
+font awesome call in angular 9 
+
+            Just import the below file angular.json file = (https://stackoverflow.com/questions/46109472/font-awesome-icon-does-not-show)
+"styles": [
+              "node_modules/@fortawesome/fontawesome-free/css/all.css",
+              "src/styles.scss"
+            ],
+            "scripts": [
+              "node_modules/@fortawesome/fontawesome-free/js/all.js"
+            ]
+          },
+
+
+
+
+
+          Animation (https://codepen.io/nxworld/pen/ZYNOBZ)
+
+
+
+
+
+          https://codepen.io/apparatus/pen/mAjJgm = roatation animation
+https://codepen.io/Samuel87/pen/abbQPaM
+https://icons8.com/icons/set/bussiness-man
+Mobhile chargin
+bathroom cleaning
+battery water checking
+swipping machine
+A/c control
+
+auto slide animation = https://codepen.io/phpnetanel/pen/DnwJK
+Remove online background remover : https://remove-white-background.imageonline.co/
+smiksystems@gmail.com
+Muthu123$
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  } 
+}
+#90c
+#ff1d58
+#0049b7
+#ff0028
+#9bc400
+https://hookagency.com/website-color-schemes/
+https://www.w3schools.com/colors/colors_picker.asp
+
+Bootstrap uninstall => npm uninstall bootstrap --save
+"sofia-pro", "Roboto", "Helvetica", "Arial", sans-serif
+
+stock outlet : none;
+#001f19
+#a7e3e1
+#9068BE
+
+bff1fe
+
+http://www.ezylarn.com/
+
+copy websites = https://www.simplilearn.com/
+
+ng generate component [component-name]
+f Smik
+
+
+	&utm_referrer=https://www.google.com
+how to build in websites : ng build
+
+
+
+font-size: heading=32px
+paragraph = 16px
+
+
+
+
+
+https://codepen.io/apparatus/pen/mAjJgm = roatation animation
+https://codepen.io/Samuel87/pen/abbQPaM
+https://icons8.com/icons/set/bussiness-man  administrator male
+Mobhile chargin
+bathroom cleaning
+battery water checking
+swipping machine
+A/c control
+
+auto slide animation = https://codepen.io/phpnetanel/pen/DnwJK
+Remove online background remover : https://remove-white-background.imageonline.co/
+smiksystems@gmail.com
+Muthu123$
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  } 
+}
+
+6380362009
+
+#90c
+#ff1d58
+#0049b7
+#ff0028
+#9bc400
+https://hookagency.com/website-color-schemes/
+https://www.w3schools.com/colors/colors_picker.asp
+
+Bootstrap uninstall => npm uninstall bootstrap --save
+"sofia-pro", "Roboto", "Helvetica", "Arial", sans-serif
+
+stock outlet : none;
+#001f19
+#a7e3e1
+#9068BE
+
+bff1fe
+
+http://www.ezylarn.com/
+
+copy websites = https://www.simplilearn.com/
+
+ng generate component [component-name]
+f Smik
+
+
+	&utm_referrer=https://www.google.com
+how to build in websites : ng build
+
+
+
+font-size: heading=32px
+paragraph = 16px
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+yellow
+#fab413 dark
+light #fbd273
+light light #fbdf9e
+
+
+pink 
+#ff9ca5 dark
+#ffc7db light 
+#fddde8 light light 
+
+
+https://codepen.io/apparatus/pen/mAjJgm = roatation animation
+https://codepen.io/Samuel87/pen/abbQPaM
+https://icons8.com/icons/set/bussiness-man  administrator male
+Mobhile chargin
+bathroom cleaning
+battery water checking
+swipping machine
+A/c control
+
+auto slide animation = https://codepen.io/phpnetanel/pen/DnwJK
+Remove online background remover : https://remove-white-background.imageonline.co/
+circle images online= https://crop-circle.imageonline.co/#circlecropresult
+
+smiksystems@gmail.com
+Muthu123$
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+@media only screen and (max-width: 600px) {
+ 
+6380362009
+
+#90c
+#ff1d58
+#0049b7
+#ff0028
+#9bc400
+https://hookagency.com/website-color-schemes/
+https://www.w3schools.com/colors/colors_picker.asp
+
+Bootstrap uninstall => npm uninstall bootstrap --save
+"sofia-pro", "Roboto", "Helvetica", "Arial", sans-serif
+
+stock outlet : none;
+#001f19
+#a7e3e1
+#9068BE
+
+bff1fe
+
+http://www.ezylarn.com/
+
+copy websites = https://www.simplilearn.com/
+
+ng generate component [component-name]
+f Smik
+
+
+	&utm_referrer=https://www.google.com
+how to build in websites : ng build
+
+
+
+font-size: heading=32px
+paragraph = 16px
+
+
+
+
+React js component creating process 
+
+first install the packages => npm install -g create-components-react(https://www.npmjs.com/package/create-components-react)
+then create new folder => ccr create (foldername EX:firstpage)
+
+
+firbase server =>(firebase data base = https://console.firebase.google.com/u/1/project/mygrocery-b9179/database/firestore/data~2Fgeneralsettings~2FContactsetting-WvuvTLssBLVFrI52tUV8GMA5mP22
+)
+firbase data =>(https://firebase.google.com/docs/firestore/manage-data/delete-data)
+
+
+
+
+
+
+online background remover = > https://photoscissors.com/editor/888799171/3ZPYqKxtI/
+
+
+online logos created site = https://studio.tailorbrands.com/business/55028342/wizard/editor?currentId=3589579394&logosStepId=340171991&origBrandVersionId=3589522261&originalIndex=30
+
+
+logos = (smik systems)https://secure.logomaker.com/step3/parent/7899578?force_font=277.ttf&layout=arc-logo&lastsave=a9f863285b539f72fea7c7248a7b0d0e
+
+
+
+slideshow animation only use css =>slideshow animation =>https://codepen.io/daysahead/pen/mJqBge
+
+svg animation => https://codepen.io/logoping/post/beautiful-svg-animations
+
+
+scrolling option bottom to top : https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_scroll_to_top
+
+
+
+online background remove => https://photoscissors.com/editor/888799171/3ZPYqKxtI/
+
+
+password = mani123$
+
+yuva Email ID = >yuvasakthiacademy1234@gmail.com
+Password => Prithika19$
+New password =>Prithika19$
+
+
+online logos created site = https://studio.tailorbrands.com/business/55028342/wizard/editor?currentId=3589579394&logosStepId=340171991&origBrandVersionId=3589522261&originalIndex=30
+
+
+logos = (smik systems)https://secure.logomaker.com/step3/parent/7899578?force_font=277.ttf&layout=arc-logo&lastsave=a9f863285b539f72fea7c7248a7b0d0e
+
+
+slideshow animation =>https://codepen.io/daysahead/pen/mJqBge
+
+
+https://codepen.io/logoping/post/beautiful-svg-animations
+
+scrolling on top=>https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_scroll_to_top
+
+@media (min-width: 992px)
+.container {
+    width: 1133px;
+}
+
+
+npx react-native run-android
+npm install
+react-native run-android
+react-native start
+
+Yuva password : Priyan19$
+
+
+
+React js
+npx create-react-app my-app
+npm start
+
+slack link =https://app.slack.com/client/TJ9BW9K6E/D010QJGPXAM
+wemail =https://webmail.smiksystems.com/cpsess8355167163/webmail/gl_paper_lantern/index.html?login=1&post_login=88455623925304
+
+Angular rout =<a class="home-app-link" routerLink="/login"><h3>register</h3></a>
+
+
+
+
+Angular date format (https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/date)
+HTML{
+    <input type="date" id="start" name="trip-start"
+                    value="2020-05-27"
+                    min="1950-01-01" max="2020-06-31">
+}
+CSS{
+    label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+input,
+label {
+    margin: .4rem 0;
+}
+
+
+ng generate component [component-name]
+f Smik
+
+
+
+
+
+
+https://codepen.io/apparatus/pen/mAjJgm = roatation animation
+https://codepen.io/Samuel87/pen/abbQPaM
+https://icons8.com/icons/set/bussiness-man  administrator male
+Mobhile chargin
+bathroom cleaning
+battery water checking
+swipping machine
+A/c control
+
+auto slide animation = https://codepen.io/phpnetanel/pen/DnwJK
+Remove online background remover : https://remove-white-background.imageonline.co/
+smiksystems@gmail.com
+Muthu123$
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  } 
+}
+
+6380362009
+
+#90c
+#ff1d58
+#0049b7
+#ff0028
+#9bc400
+https://hookagency.com/website-color-schemes/
+https://www.w3schools.com/colors/colors_picker.asp
+
+Bootstrap uninstall => npm uninstall bootstrap --save
+"sofia-pro", "Roboto", "Helvetica", "Arial", sans-serif
+
+
+New project 
+login username => rajadurai18051994@gmail.com
+Password => Raja1234$
+
+Mani123$
+
+accounts peticase=>
+https://docs.google.com/spreadsheets/d/1kH8JSjnyXwVe3FqGOoc-MyFrPUkMqZVTECW3XSG4JRQ/edit#gid=1095311415
+roation animation
+1)-webkit-animation: spin 2s infinite linear;
+ 2)animation: spin 2s infinite linear;
+
+Navigation.service.ts=> full link set side menu
+customizer.compoent.html
+crud-table-popup.component.html
+user(popup messeages)
+app-user.component.html
+crud-	omponent.html (cruds/ngx-table)(table format lists)
+current working sheet=>basic form cancel button
+app-users.component.html => user home page
+
+product data from =>todo.ts(from=>crud.service.ts)
+
+
+
+New wesites =>https://dmitlab.in/
+animation=> https://www.samarthinfinity.com/
+
+https://www.youtube.com/embed/2MpUj-Aua48?rel=0&modestbranding=1&autohide=1&mute=1&showinfo=0&controls=0&autoplay=1
+
+sky no => 4532
+
+
+midnaglobal.com => footer & slideshow
+then => form design
+
+https://www.youtube.com/watch?v=2Gg6Seob5Mg&t=104s
+https://www.youtube.com/embed/8ZMxLZqL73M?rel=0
+https://www.youtube.com/embed/VTH1zCgC1kI?rel=0
+https://www.youtube.com/embed/KGlWaG4N4L8?rel=0
+https://www.youtube.com/embed/1F4Jjw93UWw?rel=0
+https://www.youtube.com/embed/I1EkMUWNz-4?rel=0
+https://www.youtube.com/embed/bewl66FTh64?rel=0
+
+
+https://www.youtube.com/embed/8c7p9__weow?version=3&amp;enablejsapi=1&amp;html5=1&amp;hd=1&amp;wmode=opaque&amp;showinfo=0&amp;rel=0&amp;autoplay=1&amp;mute=1;;origin=https://adncom.fr;&amp;controls=0
+
+
+http://www.schoolofskills.org/our-services/nidaan-dmit/
+
+https://mindtechindia.com/  
+https://www.midnaglobal.com/
+www.brainwonders.in
+https://dmitlab.in/
+
+
+brainiacvision.com => http://brainiacvision.com/
+HTML Excercise => https://drive.google.com/drive/folders/1EFaiGPWYaaj8m96QLCb1_OqlOkEMm8_p
+
+
+
+
+
+
+
+
+
+
+
+Firebase Connection process("https://softauthor.com/firebase-javascript-crud-web-tutorial/")
+
+
+project overview => project settings => web app(third one)=> click then
+automatic =>copy the code past header tag
+<!--Include header tag--> 
+(<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="/__/firebase/7.19.1/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="/__/firebase/7.19.1/firebase-analytics.js"></script>
+
+<!-- Initialize Firebase -->
+<script src="/__/firebase/init.js"></script>)
+
+
+CDN => create a new file copy the code
+<!--Save the file firbase_init.js-->
+(<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/7.19.1/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="https://www.gstatic.com/firebasejs/7.19.1/firebase-analytics.js"></script>
+
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyC-AV53bsRfNdcLsqMBc8Vysdcsrq30KXE",
+    authDomain: "crud-f44ea.firebaseapp.com",
+    databaseURL: "https://crud-f44ea.firebaseio.com",
+    projectId: "crud-f44ea",
+    storageBucket: "crud-f44ea.appspot.com",
+    messagingSenderId: "540164002311",
+    appId: "1:540164002311:web:a8183a0c8f3617351150a2",
+    measurementId: "G-MFZ420RQNP"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+</script>)
+
+
+firebase forgot password process(https://www.google.com/search?q=firebase+using+javascript+forgot+password+in+mail+id&rlz=1C1CHBF_enIN918IN918&oq=firebase+using+javascript+forgot+password+in+mail+id&aqs=chrome..69i57j0j69i64.37207j0j4&sourceid=chrome&ie=UTF-8#kpvalbx=_J9lqX6rhJsSy9QOz_LGgBQ39)
+
+Android Installation process
+
+Download the Software =(https://android-studio.en.uptodown.com/windows/download)
+
+
+Video to gif image download => (https://ezgif.com/video-to-gif)
+
+
+
+
+Codeigniter
+
+How to Recover Deleted Rows in Sql Server =>(https://www.c-sharpcorner.com/article/how-to-recover-deleted-rows-in-sql-server/)
+
+
+Codeigniter Admin Panel Process
+
+username = admin@admin.com
+password = admin123
+
+
+
+c => xampp -> htdocs -> api
+Codeigniter (url => 
+
+http://localhost/api/Notification/notificationListing)
+
+
+Codeigniter is a MVC Model
+
+M For Model =>Database ()
+V For View=> Html & Front End ()
+C For Controller=> Backend & Backend ()
+
+
+Codeigniter MVC Model tutorials(https://www.phptpoint.com/codeigniter-insert-data-database/)
+
+
+
+Hover style
+.cw-inr-blg-post .post_content p>a:not([style]), .cw-inr-blg-post .post_content p>u>a, .cw-inr-blg-post .post_content p>strong>a, .cw-inr-blg-post .post_content p>span>a {
+    background-image: linear-gradient(rgb(46,57,191),rgb(46,57,191));
+    background-position: 0 100%;
+    background-repeat: no-repeat;
+    background-size: 0 2px;
+    transition: background-size .3s;
+}
+
+
+Angular Crud operation with using Mysql database => https://github.com/awwalfareed/AngularJS-NodeJS-MYSQL-CRUD
+
+PHP => Database connection process(https://www.studentstutorial.com/php/php-mysql-data-insert.php)
+
+All software Link=>https:(//getintopc.com/softwares/drawing/coreldraw-technical-suite-2020-free-download/)
+Photoshop download => (https://softmany.com/adobe-photoshop-cs6/download/)
+
+Bathroom Cleaning =>9659654776
+
+
+https://www.google.com/maps/dir//No.+95,+Yuva+Sakthi+Academy,+1G,+Sathy+Rd,+Kalapatti+Pirivu,+Saravanampatti,+Coimbatore,+Tamil+Nadu+641035,+India/@11.0755526,77.0003377,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3ba8f7f100b0d41d:0xa0aa5022528c539e!2m2!1d77.0025264!2d11.0755473?hl=en-US
+
+869883373
+Edit(Alt+Ctrl+Z)=>Preference=>General=>performance=>History States
+
+
+Photoshop Classes
+
+Desaturated Layer =>https://www.youtube.com/watch?v=zl-SZ0C1jLY
+Photo Quality => https://www.youtube.com/watch?v=WF9cfP2M-60
+
+AC Service => 919894847778 
+
+Mithra => 7708949083
+Deepa => 7339085019
+
+Vidhaya => 7824969071 Already Done Anydesk no( )
+Radhiga => 7094183055(Siva kumar)
+Rajeshwari => 9524908036 (anydesk number)
+Alex= >7356620416 Done
+Thomas => 8943135356
+
+
+
+webpage Linkedin => https://www.linkedin.com/feed/?trk=onboarding-landing
+
+
+
+Bangalore Site => https://www.bangaloretrainingacademy.com/index.html
+
+Thalai kotai por => 1565
+
+Angular Crud operation => https://github.com/SinghDigamber/mean-stack-angular-7-crud-app-example
+
+Angular Form validation => https://fiyazhasan.me/angular-forms-validation-updateon-blur/
+
+React Native => https://reactnative.dev/docs/environment-setup =>EXPO
+React Native => https://www.npmjs.com/package/react-native-init => Init
+
+React Native Old Version => https://www.tutorialspoint.com/react_native/react_native_environment_setup.htm(react-native run-android)
+
+React Native Login page=> https://code.tutsplus.com/tutorials/common-react-native-app-layouts-login-page--cms-27639
+
+React Native Bottom Navigation => https://snack.expo.io/?name=BottomNavigation&description=https%3A%2F%2Fcallstack.github.io%2Freact-native-paper%2Fbottom-navigation.html&code=import%20*%20as%20React%20from%20%27react%27%3B%0Aimport%20%7B%20BottomNavigation%2C%20Text%20%7D%20from%20%27react-native-paper%27%3B%0A%0Aconst%20MusicRoute%20%3D%20()%20%3D%3E%20%3CText%3EMusic%3C%2FText%3E%3B%0A%0Aconst%20AlbumsRoute%20%3D%20()%20%3D%3E%20%3CText%3EAlbums%3C%2FText%3E%3B%0A%0Aconst%20RecentsRoute%20%3D%20()%20%3D%3E%20%3CText%3ERecents%3C%2FText%3E%3B%0A%0Aconst%20MyComponent%20%3D%20()%20%3D%3E%20%7B%0A%20%20const%20%5Bindex%2C%20setIndex%5D%20%3D%20React.useState(0)%3B%0A%20%20const%20%5Broutes%5D%20%3D%20React.useState(%5B%0A%20%20%20%20%7B%20key%3A%20%27music%27%2C%20title%3A%20%27Music%27%2C%20icon%3A%20%27queue-music%27%20%7D%2C%0A%20%20%20%20%7B%20key%3A%20%27albums%27%2C%20title%3A%20%27Albums%27%2C%20icon%3A%20%27album%27%20%7D%2C%0A%20%20%20%20%7B%20key%3A%20%27recents%27%2C%20title%3A%20%27Recents%27%2C%20icon%3A%20%27history%27%20%7D%2C%0A%20%20%5D)%3B%0A%0A%20%20const%20renderScene%20%3D%20BottomNavigation.SceneMap(%7B%0A%20%20%20%20music%3A%20MusicRoute%2C%0A%20%20%20%20albums%3A%20AlbumsRoute%2C%0A%20%20%20%20recents%3A%20RecentsRoute%2C%0A%20%20%7D)%3B%0A%0A%20%20return%20(%0A%20%20%20%20%3CBottomNavigation%0A%20%20%20%20%20%20navigationState%3D%7B%7B%20index%2C%20routes%20%7D%7D%0A%20%20%20%20%20%20onIndexChange%3D%7BsetIndex%7D%0A%20%20%20%20%20%20renderScene%3D%7BrenderScene%7D%0A%20%20%20%20%2F%3E%0A%20%20)%3B%0A%7D%3B%0A%0Aexport%20default%20MyComponent%3B&dependencies=react-native-paper
+
+Mega Menus => https://www.w3schools.com/howto/howto_css_mega_menu.asp
+
+
+Set Cookies Php => https://technosmarter.com/php/PHP-login-with-cookies-set-cookie-and-delete-cookies.html
+
+
+Material full icons for angular github => https://klarsys.github.io/angular-material-icons/
